@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/searchix/static/css/main.0832c3a7.chunk.css",
+    "main.js": "/searchix/static/js/main.084707ac.chunk.js",
+    "main.js.map": "/searchix/static/js/main.084707ac.chunk.js.map",
+    "runtime-main.js": "/searchix/static/js/runtime-main.2aaf6400.js",
+    "runtime-main.js.map": "/searchix/static/js/runtime-main.2aaf6400.js.map",
+    "static/js/2.4a100061.chunk.js": "/searchix/static/js/2.4a100061.chunk.js",
+    "static/js/2.4a100061.chunk.js.map": "/searchix/static/js/2.4a100061.chunk.js.map",
+    "index.html": "/searchix/index.html",
+    "precache-manifest.bb7f68d5b05117c9d2346dd78881b5e4.js": "/searchix/precache-manifest.bb7f68d5b05117c9d2346dd78881b5e4.js",
+    "service-worker.js": "/searchix/service-worker.js",
+    "static/css/main.0832c3a7.chunk.css.map": "/searchix/static/css/main.0832c3a7.chunk.css.map",
+    "static/js/2.4a100061.chunk.js.LICENSE.txt": "/searchix/static/js/2.4a100061.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/searchix/static/media/banner.2b0ebe3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aaf6400.js",
+    "static/js/2.4a100061.chunk.js",
+    "static/css/main.0832c3a7.chunk.css",
+    "static/js/main.084707ac.chunk.js"
+  ]
+}
